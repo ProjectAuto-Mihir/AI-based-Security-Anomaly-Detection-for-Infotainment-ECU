@@ -246,6 +246,7 @@ This project demonstrates:
 ## Author
 
 Mihir Kumar Jena
+
 Automotive Software & Cybersecurity Engineer
 Specialization: AUTOSAR, ECU Development, Secure Systems
 

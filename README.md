@@ -247,7 +247,7 @@ This project demonstrates:
 
 Mihir Kumar Jena
 
-Automotive Software & Cybersecurity Engineer
+Automotive Software & Cybersecurity Engineer,
 Specialization: AUTOSAR, ECU Development, Secure Systems
 
 ---
